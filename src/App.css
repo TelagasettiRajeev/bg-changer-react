@@ -1,0 +1,16 @@
+.app-div{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+
+.app-heading{
+  margin: 30px 0px;
+  font-size: 38px;
+  margin-bottom: 75vh;
+}
+
